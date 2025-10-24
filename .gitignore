@@ -1,0 +1,14 @@
+# Git ignore for Python projects 
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+build/
+dist/
+*.exe
+*.pkg
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
